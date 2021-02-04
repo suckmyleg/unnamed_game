@@ -11,11 +11,6 @@ You can be a samurai or a retarded furro.
 git clone https://github.com/suckmyleg/unnamed_game
 ```
 
-# Execute it
-```
-python3 main.py
-```
-
 # Designs 
 
 # World   

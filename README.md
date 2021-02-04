@@ -16,16 +16,14 @@ git clone https://github.com/suckmyleg/unnamed_game
 python3 main.py
 ```
 
-# Designs:
+# Designs 
 
-  # World:
+# World   
  
-  # Characters:
+# Characters:   
  
-  # Story:
+# Story 
 
-# Code:
-  # Functions:
+# Functions
   
-  # Unfinished things:
-  Kill niggers
+# Unfinished things

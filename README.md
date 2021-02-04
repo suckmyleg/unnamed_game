@@ -18,3 +18,4 @@ You can be a samurai or a retarded furro.
   # Functions:
   
   # Unfinished things:
+  Kill niggers

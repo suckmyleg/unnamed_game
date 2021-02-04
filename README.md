@@ -8,7 +8,7 @@ You can be a samurai or a retarded furro.
 
 # Installation
 ```
-git pull https://github.com/suckmyleg/unnamed_game
+git clone https://github.com/suckmyleg/unnamed_game
 ```
 
 # Execute it

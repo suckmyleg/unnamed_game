@@ -10,15 +10,3 @@ You can be a samurai or a retarded furro.
 ```
 git clone https://github.com/suckmyleg/unnamed_game
 ```
-
-# Designs 
-
-# World   
- 
-# Characters:   
- 
-# Story 
-
-# Functions
-  
-# Unfinished things

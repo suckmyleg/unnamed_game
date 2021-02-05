@@ -5,5 +5,4 @@ PVTO EL QUE LO ABRA :v
 	Engine para hacer el juego:
 		Unity  +Juan
 		Unreal 
-		Otro
 		RPG Maker

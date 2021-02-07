@@ -3,6 +3,6 @@ PVTO EL QUE LO ABRA :v
 # Votación
 
 	Engine para hacer el juego:
-		Unity  +Juan
+		Unity  +Juan +David
 		Unreal 
 		RPG Maker
